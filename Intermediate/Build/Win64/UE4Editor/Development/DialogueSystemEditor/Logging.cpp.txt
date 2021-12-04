@@ -1,2 +1,0 @@
-X:\Video Games\World of Iniquity\Project Files\Intermediate\Build\Win64\UE4Editor\Development\DialogueSystemEditor\Definitions.DialogueSystemEditor.h
-X:\Video Games\World of Iniquity\Project Files\Source\DialogueSystemEditor\Private\Logging.h

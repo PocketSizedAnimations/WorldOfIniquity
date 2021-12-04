@@ -1,3 +1,0 @@
-X:\Video Games\World of Iniquity\Project Files\Intermediate\Build\Win64\UE4Editor\Development\WorldOfIniquity\Definitions.WorldOfIniquity.h
-X:\Video Games\World of Iniquity\Project Files\Source\WorldOfIniquity\Public\InventoryManager/InventoryManagerComponent.h
-X:\Video Games\World of Iniquity\Project Files\Intermediate\Build\Win64\UE4Editor\Inc\WorldOfIniquity\InventoryManagerComponent.generated.h
