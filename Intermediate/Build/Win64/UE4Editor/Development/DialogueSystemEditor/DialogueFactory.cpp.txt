@@ -1,0 +1,23 @@
+X:\Video Games\World of Iniquity\Project Files\Intermediate\Build\Win64\UE4Editor\Development\DialogueSystemEditor\Definitions.DialogueSystemEditor.h
+X:\Video Games\World of Iniquity\Project Files\Source\DialogueSystemEditor\Public\DialogueFactory.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Developer\AssetTools\Public\AssetToolsModule.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Developer\AssetTools\Public\IAssetTools.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Developer\AssetTools\Public\AssetTypeCategories.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Developer\AssetTools\Public\IAssetTypeActions.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Developer/Merge/Public/Merge.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\UnrealEd\Classes\ThumbnailRendering/ThumbnailManager.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\UnrealEd\Classes\ThumbnailRendering/ThumbnailRenderer.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ThumbnailRenderer.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ThumbnailManager.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\UnrealEd\Public\AutomatedAssetImportData.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\AutomatedAssetImportData.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetTools\IAssetTools.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Developer\AssetTools\Public\AssetTypeActions_Base.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\UnrealEd\Public\Toolkits/AssetEditorManager.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\UnrealEd\Public\Toolkits/SimpleAssetEditor.h
+X:\Video Games\World of Iniquity\Project Files\Source\DialogueSystem/Public/Dialogue.h
+X:\Video Games\World of Iniquity\Project Files\Intermediate\Build\Win64\UE4Editor\Inc\DialogueSystem\Dialogue.generated.h
+X:\Video Games\World of Iniquity\Project Files\Intermediate\Build\Win64\UE4Editor\Inc\DialogueSystemEditor\DialogueFactory.generated.h
+X:\Video Games\World of Iniquity\Project Files\Source\DialogueSystemEditor/Public/DialogueSystemEditor.h
+X:\Video Games\World of Iniquity\Project Files\Source\DialogueSystemEditor/Public/Editor/DialogueEditor.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\Kismet\Public\WorkflowOrientedApp/WorkflowCentricApplication.h

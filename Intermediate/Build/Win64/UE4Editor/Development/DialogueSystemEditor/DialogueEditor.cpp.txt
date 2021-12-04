@@ -1,0 +1,9 @@
+X:\Video Games\World of Iniquity\Project Files\Intermediate\Build\Win64\UE4Editor\Development\DialogueSystemEditor\Definitions.DialogueSystemEditor.h
+X:\Video Games\World of Iniquity\Project Files\Source\DialogueSystemEditor\Public\Editor/DialogueEditor.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\Kismet\Public\WorkflowOrientedApp/WorkflowCentricApplication.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\KismetWidgets\Public\SSingleObjectDetailsPanel.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime/Engine/Public/Slate/SceneViewport.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\UnrealEd\Public\SEditorViewport.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Slate\Public\Widgets/SViewport.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\WorkspaceMenuStructure\Public\WorkspaceMenuStructureModule.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Slate\Public\Framework/Commands/GenericCommands.h

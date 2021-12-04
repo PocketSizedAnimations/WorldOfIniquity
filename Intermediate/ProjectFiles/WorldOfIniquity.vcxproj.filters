@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\WorldOfIniquity.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{EB95D629-3A13-43CF-9589-1AEFF0E68DA9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\WorldOfIniquity.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\WorldOfIniquityEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{A9D5E879-5F9C-446A-8EF6-5A2273499E92}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\DialogueSystem">
+      <UniqueIdentifier>{D7756FBF-75C0-443A-90B8-80DB56E3FFA1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DialogueSystem\DialogueSystem.Build.cs">
+      <Filter>Source\DialogueSystem</Filter>
+    </None>
+    <Filter Include="Source\DialogueSystem\Private">
+      <UniqueIdentifier>{40944C95-3481-4F34-B4E3-AACE2F1A00AD}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\DialogueSystem\Private\Dialogue.cpp">
+      <Filter>Source\DialogueSystem\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\DialogueSystem\Private\DialogueSystem.cpp">
+      <Filter>Source\DialogueSystem\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\DialogueSystem\Private\Logging.cpp">
+      <Filter>Source\DialogueSystem\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DialogueSystem\Private\Logging.h">
+      <Filter>Source\DialogueSystem\Private</Filter>
+    </ClInclude>
+    <Filter Include="Source\DialogueSystem\Public">
+      <UniqueIdentifier>{31BC478D-BA97-4922-8C3D-9340986B8FD9}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\DialogueSystem\Public\Dialogue.h">
+      <Filter>Source\DialogueSystem\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\DialogueSystem\Public\DialogueSystem.h">
+      <Filter>Source\DialogueSystem\Public</Filter>
+    </ClInclude>
+    <Filter Include="Source\DialogueSystemEditor">
+      <UniqueIdentifier>{C34E55AE-A3E4-45F9-A33C-05EB9566C3C4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DialogueSystemEditor\DialogueSystemEditor.Build.cs">
+      <Filter>Source\DialogueSystemEditor</Filter>
+    </None>
+    <Filter Include="Source\DialogueSystemEditor\Private">
+      <UniqueIdentifier>{490BBD48-4DE3-4F43-B796-FEFFC003A94A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\DialogueSystemEditor\Private\DialogueFactory.cpp">
+      <Filter>Source\DialogueSystemEditor\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\DialogueSystemEditor\Private\DialogueSystemEditor.cpp">
+      <Filter>Source\DialogueSystemEditor\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\DialogueSystemEditor\Private\Logging.cpp">
+      <Filter>Source\DialogueSystemEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DialogueSystemEditor\Private\Logging.h">
+      <Filter>Source\DialogueSystemEditor\Private</Filter>
+    </ClInclude>
+    <Filter Include="Source\DialogueSystemEditor\Private\Editor">
+      <UniqueIdentifier>{342C46E6-3893-47DA-B7FC-E22C6B006CD1}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\DialogueSystemEditor\Private\Editor\DialogueEditor.cpp">
+      <Filter>Source\DialogueSystemEditor\Private\Editor</Filter>
+    </ClCompile>
+    <Filter Include="Source\DialogueSystemEditor\Public">
+      <UniqueIdentifier>{E6EF5B61-E1C7-4960-AC64-2E6838279846}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\DialogueSystemEditor\Public\DialogueFactory.h">
+      <Filter>Source\DialogueSystemEditor\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\DialogueSystemEditor\Public\DialogueSystemEditor.h">
+      <Filter>Source\DialogueSystemEditor\Public</Filter>
+    </ClInclude>
+    <Filter Include="Source\DialogueSystemEditor\Public\Editor">
+      <UniqueIdentifier>{C6157F54-0C62-4316-BE53-B8579E5118E0}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\DialogueSystemEditor\Public\Editor\DialogueEditor.h">
+      <Filter>Source\DialogueSystemEditor\Public\Editor</Filter>
+    </ClInclude>
+    <Filter Include="Source\WorldOfIniquity">
+      <UniqueIdentifier>{B913B3E6-D02A-4A79-B1B6-9F86E6D0EA55}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\WorldOfIniquity\WorldOfIniquity.Build.cs">
+      <Filter>Source\WorldOfIniquity</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\WorldOfIniquity\WorldOfIniquity.cpp">
+      <Filter>Source\WorldOfIniquity</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\WorldOfIniquity\WorldOfIniquity.h">
+      <Filter>Source\WorldOfIniquity</Filter>
+    </ClInclude>
+    <Filter Include="Source\WorldOfIniquity\Private">
+      <UniqueIdentifier>{95A3ADC0-650C-40B1-BF62-256EAAB40DB2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\WorldOfIniquity\Private\Animations">
+      <UniqueIdentifier>{FBF92FB6-99F0-433B-9A1A-0F9C529B2B0F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\WorldOfIniquity\Private\Animations\WOICharacterAnimInstance.cpp">
+      <Filter>Source\WorldOfIniquity\Private\Animations</Filter>
+    </ClCompile>
+    <Filter Include="Source\WorldOfIniquity\Private\Characters">
+      <UniqueIdentifier>{5EB77634-A16B-493A-A006-DBAB537C3CEB}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\WorldOfIniquity\Private\Characters\WOICharacter.cpp">
+      <Filter>Source\WorldOfIniquity\Private\Characters</Filter>
+    </ClCompile>
+    <Filter Include="Source\WorldOfIniquity\Private\InventoryManager">
+      <UniqueIdentifier>{A9C7F501-477F-4EF2-A120-AB9F44DE12C2}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\WorldOfIniquity\Private\InventoryManager\InventoryManagerComponent.cpp">
+      <Filter>Source\WorldOfIniquity\Private\InventoryManager</Filter>
+    </ClCompile>
+    <Filter Include="Source\WorldOfIniquity\Private\Players">
+      <UniqueIdentifier>{04C275FD-2996-4EDE-A7E9-7949AA59B5C6}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\WorldOfIniquity\Private\Players\WOIPlayerController.cpp">
+      <Filter>Source\WorldOfIniquity\Private\Players</Filter>
+    </ClCompile>
+    <Filter Include="Source\WorldOfIniquity\Public">
+      <UniqueIdentifier>{1829934A-73CD-444C-81AB-BDAE9D84613A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\WorldOfIniquity\Public\Animations">
+      <UniqueIdentifier>{8B7EDE3B-B7F5-4510-984B-B4101BBCC1AC}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\WorldOfIniquity\Public\Animations\WOICharacterAnimInstance.h">
+      <Filter>Source\WorldOfIniquity\Public\Animations</Filter>
+    </ClInclude>
+    <Filter Include="Source\WorldOfIniquity\Public\Characters">
+      <UniqueIdentifier>{9D1C1A56-273B-45F4-A898-2954AE190D68}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\WorldOfIniquity\Public\Characters\WOICharacter.h">
+      <Filter>Source\WorldOfIniquity\Public\Characters</Filter>
+    </ClInclude>
+    <Filter Include="Source\WorldOfIniquity\Public\InventoryManager">
+      <UniqueIdentifier>{25FF14F6-7A1C-4207-A538-15ADBD56DFF1}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\WorldOfIniquity\Public\InventoryManager\InventoryManagerComponent.h">
+      <Filter>Source\WorldOfIniquity\Public\InventoryManager</Filter>
+    </ClInclude>
+    <Filter Include="Source\WorldOfIniquity\Public\Players">
+      <UniqueIdentifier>{1C438B67-EE58-438C-8B41-D0EE8504F09A}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\WorldOfIniquity\Public\Players\WOIPlayerController.h">
+      <Filter>Source\WorldOfIniquity\Public\Players</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

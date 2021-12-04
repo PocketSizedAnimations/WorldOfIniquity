@@ -1,0 +1,9 @@
+{
+	"BuildId": "14830424",
+	"Modules": 
+	{
+		"DialogueSystem": "UE4Editor-DialogueSystem.dll",
+		"DialogueSystemEditor": "UE4Editor-DialogueSystemEditor.dll",
+		"WorldOfIniquity": "UE4Editor-WorldOfIniquity.dll"
+	}
+}

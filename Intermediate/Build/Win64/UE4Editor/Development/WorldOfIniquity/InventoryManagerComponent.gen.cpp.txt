@@ -1,0 +1,5 @@
+X:\Video Games\World of Iniquity\Project Files\Intermediate\Build\Win64\UE4Editor\Development\WorldOfIniquity\Definitions.WorldOfIniquity.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+X:\Video Games\World of Iniquity\Project Files\Source\WorldOfIniquity/Public/InventoryManager/InventoryManagerComponent.h
+X:\Video Games\World of Iniquity\Project Files\Intermediate\Build\Win64\UE4Editor\Inc\WorldOfIniquity\InventoryManagerComponent.generated.h

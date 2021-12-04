@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-DialogueSystemEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"X:\Video Games\World of Iniquity\Project Files\Intermediate\Build\Win64\WorldOfIniquityEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"X:\Video Games\World of Iniquity\Project Files\Intermediate\Build\Win64\UE4Editor\Development\DialogueSystemEditor\DialogueEditor.cpp.obj"
+"X:\Video Games\World of Iniquity\Project Files\Intermediate\Build\Win64\UE4Editor\Development\DialogueSystemEditor\DialogueFactory.cpp.obj"
+"X:\Video Games\World of Iniquity\Project Files\Intermediate\Build\Win64\UE4Editor\Development\DialogueSystemEditor\DialogueSystemEditor.cpp.obj"
+"X:\Video Games\World of Iniquity\Project Files\Intermediate\Build\Win64\UE4Editor\Development\DialogueSystemEditor\Logging.cpp.obj"
+"X:\Video Games\World of Iniquity\Project Files\Intermediate\Build\Win64\UE4Editor\Development\DialogueSystemEditor\DialogueFactory.gen.cpp.obj"
+"X:\Video Games\World of Iniquity\Project Files\Intermediate\Build\Win64\UE4Editor\Development\DialogueSystemEditor\DialogueSystemEditor.init.gen.cpp.obj"
+"X:\Video Games\World of Iniquity\Project Files\Intermediate\Build\Win64\UE4Editor\Development\DialogueSystemEditor\Default.rc2.res"
+/OUT:"X:\Video Games\World of Iniquity\Project Files\Intermediate\Build\Win64\UE4Editor\Development\DialogueSystemEditor\UE4Editor-DialogueSystemEditor.lib"
+/INCLUDE:IMPLEMENT_MODULE_DialogueSystemEditor

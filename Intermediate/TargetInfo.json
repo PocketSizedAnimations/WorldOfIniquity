@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "WorldOfIniquity",
+			"Path": "X:\\Video Games\\World of Iniquity\\Project Files\\Source\\WorldOfIniquity.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "WorldOfIniquityEditor",
+			"Path": "X:\\Video Games\\World of Iniquity\\Project Files\\Source\\WorldOfIniquityEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

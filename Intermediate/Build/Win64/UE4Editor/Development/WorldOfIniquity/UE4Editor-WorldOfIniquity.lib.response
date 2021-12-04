@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-WorldOfIniquity.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"X:\Video Games\World of Iniquity\Project Files\Intermediate\Build\Win64\WorldOfIniquityEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"X:\Video Games\World of Iniquity\Project Files\Intermediate\Build\Win64\UE4Editor\Development\WorldOfIniquity\WOICharacterAnimInstance.cpp.obj"
+"X:\Video Games\World of Iniquity\Project Files\Intermediate\Build\Win64\UE4Editor\Development\WorldOfIniquity\WOICharacter.cpp.obj"
+"X:\Video Games\World of Iniquity\Project Files\Intermediate\Build\Win64\UE4Editor\Development\WorldOfIniquity\InventoryManagerComponent.cpp.obj"
+"X:\Video Games\World of Iniquity\Project Files\Intermediate\Build\Win64\UE4Editor\Development\WorldOfIniquity\WOIPlayerController.cpp.obj"
+"X:\Video Games\World of Iniquity\Project Files\Intermediate\Build\Win64\UE4Editor\Development\WorldOfIniquity\WorldOfIniquity.cpp.obj"
+"X:\Video Games\World of Iniquity\Project Files\Intermediate\Build\Win64\UE4Editor\Development\WorldOfIniquity\InventoryManagerComponent.gen.cpp.obj"
+"X:\Video Games\World of Iniquity\Project Files\Intermediate\Build\Win64\UE4Editor\Development\WorldOfIniquity\WOICharacter.gen.cpp.obj"
+"X:\Video Games\World of Iniquity\Project Files\Intermediate\Build\Win64\UE4Editor\Development\WorldOfIniquity\WOICharacterAnimInstance.gen.cpp.obj"
+"X:\Video Games\World of Iniquity\Project Files\Intermediate\Build\Win64\UE4Editor\Development\WorldOfIniquity\WOIPlayerController.gen.cpp.obj"
+"X:\Video Games\World of Iniquity\Project Files\Intermediate\Build\Win64\UE4Editor\Development\WorldOfIniquity\WorldOfIniquity.init.gen.cpp.obj"
+"X:\Video Games\World of Iniquity\Project Files\Intermediate\Build\Win64\UE4Editor\Development\WorldOfIniquity\Default.rc2.res"
+/OUT:"X:\Video Games\World of Iniquity\Project Files\Intermediate\Build\Win64\UE4Editor\Development\WorldOfIniquity\UE4Editor-WorldOfIniquity.lib"
+/INCLUDE:IMPLEMENT_MODULE_WorldOfIniquity
